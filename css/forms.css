@@ -55,6 +55,7 @@ input[type="reset"] {
   border: solid 1px #a62a01;
   background-color: var(--primary-color);
   color: white;
+  
 }
 
 /* Personalización del checkbox */
