@@ -23,6 +23,9 @@ h1 {
                black 2px -2px 2px,
                black -2px 2px 2px;
 }
+h1{
+  text-align: center;
+}
 
 .main {
   padding: 100px 1rem 1rem 1rem;
