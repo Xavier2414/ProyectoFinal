@@ -1,5 +1,5 @@
 .header {
-  background: url("../img/bg.jpg") bottom center;
+  background: url("../img/inicio.jpg") bottom center;
   background-size: cover;
   height: 100vh;
 
@@ -19,7 +19,6 @@
     mismo que el alto de la barra de
     navegación.
   */
-  padding-top: 65px;
   position: relative;
   z-index: 30;
 }

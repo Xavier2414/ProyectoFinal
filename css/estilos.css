@@ -1,7 +1,7 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
-   background: url("../img/bg.jpg");
+   background: url("../img/loginreg.jpg");
     background-size: cover;
     background-attachment: fixed;
 }
@@ -42,7 +42,7 @@ input[type="password"]{
     width: 100%;
     color: white;
     font-size: 20px;
-    background:  #d65a31;
+    background:  #FF4655;
     padding: 15px 20px;
     border-radius: 5px;
     cursor: pointer;
