@@ -19,9 +19,7 @@ h1 {
   border: 0;
   margin-top: 2rem;
   text-shadow: black 2px 2px 2px,
-               black -2px -2px 2px,
-               black 2px -2px 2px,
-               black -2px 2px 2px;
+               rgb(112, 1, 139) -2px 2px 2px;
 }
 h1{
   text-align: center;
@@ -50,10 +48,7 @@ h1{
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 10px;
-  text-shadow: black 2px 2px 2px,
-               black -2px -2px 2px,
-               black 2px -2px 2px,
-               black -2px 2px 2px;
+  
 }
 
 .countdown .time {
