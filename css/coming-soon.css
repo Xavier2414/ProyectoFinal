@@ -48,6 +48,7 @@ h1{
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 10px;
+  text-shadow: black 2px 2px 2px, rgb(112 1 139) -2px 2px 2px;
   
 }
 
